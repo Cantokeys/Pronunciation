@@ -1,4 +1,4 @@
-# What?
+# What?  乜嘢？ Mātje̗?
 This repository seeks to comprehensively archive Cantonese pronunciation of Honzi̱ accounting for the historical distinctions between c/ȼ, j/ɉ, s/ꞩ, z/ƶ, and high level tone 1 and high falling tone 7.  Why store historical nuances in Cantokeys romanization?  Because it is optimized for keyboard input.  It is phonetic and dense while perfectly regular.  It balances human readability of modern phonetics with archival of conservative Cantonese's closeness to Middle Chinese, and its lexicon exported all over East Asia.  
 # Pronunciation
 Comprehensive reference for Cantokeys romanization for Cantonese
@@ -6,6 +6,8 @@ Comprehensive reference for Cantokeys romanization for Cantonese
 ## Vowels
 ## Format
 Cantokeys=Honzi̱@Annotation
+認拼=漢字@註釋
+Ɉi̱qpiq=Honzi̱@Ƶyꞩīk
 Where known, etymology is decorated:
 ƶ(oq) (zhuang)
 g(wokjy̗) (mandarin)
