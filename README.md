@@ -4,3 +4,15 @@ This repository seeks to comprehensively archive Cantonese pronunciation of Honz
 Comprehensive reference for Cantokeys romanization for Cantonese
 ## Consonants
 ## Vowels
+## Format
+Cantokeys=Honzi̱@Annotation
+Where known, etymology is decorated:
+ƶ(oq) (zhuang)
+g(wokjy̗) (mandarin)
+ɉ(a̱tbún) (japanese)
+e(nglish)
+p(o̖uto̖uqv̖) (portuguese)
+k(orean)
+m(u̖n) (manchu)
+a(lternate graph)
+n(ame)
