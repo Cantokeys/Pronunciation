@@ -5,16 +5,16 @@ Comprehensive reference for Cantokeys romanization for Cantonese
 ## Consonants
 ## Vowels
 ## Format
-Cantokeys=Honzi̱@Annotation
-認拼=漢字@註釋
-Ɉi̱qpiq=Honzi̱@Ƶyꞩīk
-Where known, etymology is decorated:
-ƶ(oq) (zhuang)
-g(wokjy̗) (mandarin)
-ɉ(a̱tbún) (japanese)
-e(nglish)
-p(o̖uto̖uqv̖) (portuguese)
-k(orean)
-m(u̖n) (manchu)
-a(lternate graph)
+Cantokeys=Honzi̱@Annotation \
+認拼=漢字@註釋 \
+Ɉi̱qpiq=Honzi̱@Ƶyꞩīk \
+Where known, etymology is decorated: \
+ƶ(oq) (zhuang) \
+g(wokjy̗) (mandarin) \
+ɉ(a̱tbún) (japanese) \
+e(nglish) \
+p(o̖uto̖uqv̖) (portuguese) \
+k(orean) \
+m(u̖n) (manchu) \
+a(lternate graph) \
 n(ame)
